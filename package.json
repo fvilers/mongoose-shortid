@@ -1,0 +1,20 @@
+{
+  "name": "@fvilers/mongoose-shortid",
+  "version": "0.0.0",
+  "description": "A Mongoose plugin that adds a virtual property with a shorter document ID",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/mongoose-shortid.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "plugin"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/mongoose-shortid/issues"
+  },
+  "homepage": "https://github.com/fvilers/mongoose-shortid#readme"
+}
