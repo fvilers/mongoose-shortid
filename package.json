@@ -9,7 +9,7 @@
   "keywords": [
     "mongodb",
     "mongoose",
-    "plugin"
+    "mongoose-plugin"
   ],
   "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
   "license": "MIT",
