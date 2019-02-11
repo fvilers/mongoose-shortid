@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/mongoose-shortid/issues"
   },
-  "homepage": "https://github.com/fvilers/mongoose-shortid#readme"
+  "homepage": "https://github.com/fvilers/mongoose-shortid#readme",
+  "dependencies": {
+    "base-x": "3.0.5"
+  }
 }
