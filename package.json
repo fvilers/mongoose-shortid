@@ -2,6 +2,7 @@
   "name": "@fvilers/mongoose-shortid",
   "version": "1.0.0",
   "description": "A Mongoose plugin that adds a virtual property with a shorter document ID",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fvilers/mongoose-shortid.git"
